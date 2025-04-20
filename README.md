@@ -1,2 +1,2 @@
 # tictactoe
-It is a tictac toe game
+It is a tictac toe  game
